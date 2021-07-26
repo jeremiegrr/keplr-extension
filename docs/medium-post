@@ -1,0 +1,168 @@
+<!-- Output copied to clipboard! -->
+
+<!-----
+NEW: Check the "Suppress top comment" option to remove this info from the output.
+
+Conversion time: 1.754 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β30
+* Mon Jul 26 2021 07:39:27 GMT-0700 (PDT)
+* Source doc: Browser extension post
+* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
+
+----->
+
+
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 5.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
+<a href="#gdcalert2">alert2</a>
+<a href="#gdcalert3">alert3</a>
+<a href="#gdcalert4">alert4</a>
+<a href="#gdcalert5">alert5</a>
+
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+
+
+Dear Fetch.ai community,
+
+As announced yesterday, today we are very excited to share with you our new Chrome extension wallet!
+
+It will first be running for a few weeks on an upgraded version of our current testnet called Andromeda, until the launch of our Stargate mainnet on July 29th. 
+
+From July 16th to July 27th, you will be able to migrate your ERC-20 FET tokens from your MetaMask account to this new, native wallet, and therefore from Ethereum to Andromeda.
+
+In this post, we will go through the whole (and fairly easy) process to do so.
+
+
+
+1. **Install the Fetch.ai Wallet Chrome extension**
+
+First things first, get our official Chrome extension here, and install it (make sure that it’s the official wallet). 
+
+Just click Add to Chrome, and click Approve, to give the extension the requested access.
+
+
+
+2. **Launch the Fetch.ai wallet**
+
+Now that your Fetch.ai wallet extension has been added to Chrome, you will find it by clicking on this small icon
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image1.png "image_tooltip")
+at the top right corner of your Chrome browser.
+
+It will display the various extensions installed on your browser, including the one called Fetch.ai, with the Fetch.ai icon: 
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image2.png "image_tooltip")
+
+
+For convenience, you can click on the pin icon next to it, so that it always appears next to the Extensions icon, without having to look for it through the list.
+
+Now just click on it, and it will open our wallet’s interface as follows:
+
+
+
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image3.png "image_tooltip")
+
+
+As you can see, you have several options here:
+
+
+
+* _Create new account_ will do what it says, and create a new empty account on your wallet. The process is pretty similar to creating an account with MetaMask (make sure you keep a copy of your passphrase somewhere safe). \
+
+* _Import existing account_ allows you to import an account that you have created previously using another wallet or client
+* _Import ledger_ allows you to use your Ledger nano device to access your wallet address and sign transactions.  \
+
+* And _Migrate from ETH_ is the option you should  choose if your FET were locked in the Ethereum staking contract and were auto-migrated as part of the stargate network upgrade. .
+3. **Import ledger**
+
+This option allows you to create addresses on mainnet using your Ledger Nano. Simply install the ledger live software on your PC and use the “Manager” option to install the Cosmos app on the device. After selecting this option, a pop-up will prompt you to connect and unlock the ledger and open the Cosmos app on the device.  
+
+
+
+4. **Migrate your ERC-20 FET from MetaMask to your Fetch.ai wallet**
+
+Once you click the Migrate from ETH button, this screen will display:
+
+
+
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image4.png "image_tooltip")
+
+
+You need fill in the fields:
+
+
+
+* In general, you should ensure that your OS is up-to-date and that you have anti-virus software installed on your machine. 
+* This process involves exporting your private key that is used to access your coins so make sure you go through these steps in a place where no-one can see your screen. 
+* Give a name to your account (such as “My beautiful new FET wallet”)
+* In the Ethereum address field, you need to paste the public address of the MetaMask Ethereum account where your ERC-20 FET are currently stored, and from which you will migrate them to your new wallet.
+* In order to reduce the time where your private key is displayed on screen, we recommend the following process:
+* Before filling in the private key field, fill in the password and password confirmation fields: just choose a safe password for your wallet and confirm it.
+* Visit your MetaMask interface, and enter the Ethereum account containing your FET. 
+* To find the private key, follow [these instructions](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key) on the MetaMask support page, but don’t actually do the process yet.
+* 
+* In MetaMask, click on Export Private Key.
+* Enter your MetaMask password as requested, your private key will appear, copy it in your clipboard.
+* 
+* Go back to your Fetch wallet interface, paste the private key in the corresponding field.
+* Copy any text you have at hand into your clipboard (command C), such as any word of these instructions, just so your clipboard doesn’t store your private key anymore.
+
+    After successfully setting up the wallet, you will see the completion screen:
+
+
+
+
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image5.png "image_tooltip")
+
+
+Here waiting for testFET from Jon, so I don’t know if the migration process is automated, or should be done manually and how.
+
+We’re delighted to announce the **launch of the Fetch.ai _Amsterdam_ test-net** from Friday the 9th of July. This testnet will allow developers, validators and **holders of the FET token** **to test the upgrade of the Fetch.ai network to the Stargate** version of the Cosmos-SDK. When completed, the mainnet migration will allow us to bring our agent-based DeFi technologies to Cosmos’ interchain ecosystem and beyond. 
+
+From Friday the 16th of July, **holders of stake in Fetch.ai’s current Ethereum staking** program will have an opportunity to **access testFET tokens on the _Amsterdam _test-net** to **check that their wallet software and hardware works correctly for the planned stake migration**. We’ll be releasing **instructions for accessing these testFET** on Tuesday the 13th of July and the network will be running for several weeks so you will have plenty of time to become familiar with the stake migration and new wallet software. 
+
+We call on all **validators** currently supporting our mainnet to follow the instructions [here](https://github.com/fetchai/genesis-fetchhub/tree/testmigrate) to **join our _Amsterdam _testnet**. Validators who join will also be asked to participate in the **upgrade of the network taking place on the 15th of July**. It is planned that the network will be stopped at around 10:00 UTC with the relaunch completed by around 16:00 UTC on that date. Validators who help with the upgrade and contribute towards our [know-you-validator](https://fetch.ai/announcing-the-fetch-ai-know-your-validator-program/) program, will become eligible for future delegations from the Fetch.ai foundation. 
+
+Following the upgrade, **the _Amsterdam _test-net will also be used to test the performance of the network** and to trial novel applications of Fetch.ai’s collective learning technology. This will give validators an opportunity to demonstrate their ability to operate high-availability infrastructure and to gain experience with new business models enabled by Fetch.ai’s decentralized AI protocols. 
+
+Key dates for the _Amsterdam _test-net are: 
+
+**July 9th** Initiation of **launchpad network** with on-boarding of mainnet **validators**. 
+
+**July 13th **Release of **browser extension** wallet for Fetch.ai **Stargate** network
+
+**July 15th-16th** Upgrade of launchpad network to Stargate version of Cosmos-SDK. 
+
+**July 16th-27th **Wallet on-boarding and user testing of stake migration. 
+
+**July 19th-23rd **Testing of collective learning applications on test-net. 
+
+These preparations will ensure that everyone involved in the Fetch.ai ecosystem is prepared for the mainnet upgrade taking place on the 29th of July. We’re excited about this next phase of development of the Fetch.ai and are looking forward to providing many more opportunities for our token holders to use and become involved in the future of the protocol. 
